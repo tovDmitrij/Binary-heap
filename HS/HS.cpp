@@ -95,6 +95,8 @@ int main()
 		delete[]heap;
 	}
 
+
+
 #pragma region Изучение сложности алгоритма
 	{
 		int N = 16;
@@ -117,5 +119,7 @@ int main()
 		delete[]heap;
 	}
 #pragma endregion
+
+
 
 }
